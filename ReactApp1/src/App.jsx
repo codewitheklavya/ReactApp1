@@ -1,11 +1,15 @@
 
 
-
+import Trial from "./trial"
 
 function App() {
 
   return (
-    <h1>Eklavya Singh React</h1>
+    <>
+    <Trial/>
+      <h1>eklavya checking</h1>
+      <p>this is paragraph</p>
+    </>
   )
 }
 
